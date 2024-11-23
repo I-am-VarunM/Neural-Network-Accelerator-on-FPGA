@@ -14,4 +14,4 @@ The hardware accelerator is built using Verilog and consists of several key comp
 
 This Repository contains RTL files for activations, model, MACs
 The vivado implementation can be found in this [](url)
-The weight files saved as .mif can be found in this [https://drive.google.com/drive/folders/15szLCZFdRvnUMlb5YX9DcoSgq5tyce7Z?usp=sharing](url)
+The weight files saved as .mif can be found in this [link](https://drive.google.com/drive/folders/15szLCZFdRvnUMlb5YX9DcoSgq5tyce7Z?usp=sharing)
