@@ -13,5 +13,12 @@ The hardware accelerator is built using Verilog and consists of several key comp
 - MACs (Multiply-Accumulate Units): Performs the core computations of the neural network.
 
 This Repository contains RTL files for activations, model, MACs
-The vivado implementation can be found in this [](url)
+
+
+
+
+The vivado implementation can be found in this [link](https://drive.google.com/drive/folders/1YNKOWNlm9_SVNJqk2IN5LP7qUA-WJ699?usp=sharing)
+
+
+
 The weight files saved as .mif can be found in this [link](https://drive.google.com/drive/folders/15szLCZFdRvnUMlb5YX9DcoSgq5tyce7Z?usp=sharing)
